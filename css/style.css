@@ -11,7 +11,6 @@ body {
 header, footer {
   background-color: #ffa500;
   text-align: left;
-/*  min-width: 500px; */
 }
 
 header {
@@ -104,14 +103,6 @@ font-family: 'Merriweather Sans', sans-serif;
   width: 100%;
 }
 
-.a {
-
-}
-
-.c {
-
-}
-
 .time {
   padding-left: 10px;
   padding-top: 10px;
@@ -151,7 +142,6 @@ font-family: 'Merriweather Sans', sans-serif;
 }
 
 .container {
-  min-width: 500px;
   margin: auto;
 }
 
