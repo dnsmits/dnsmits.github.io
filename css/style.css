@@ -4,7 +4,7 @@ html {
 
 body {
   margin: 0;
-  font-family: 'Times New Roman', sans-sans-serif;
+  font-family: 'Times New Roman', sans-serif;
 }
 
 header, footer {
@@ -45,7 +45,7 @@ main {
 }
 
 h1, h2 {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Times New Roman', sans-serif;
 }
 
 h1 {
@@ -134,7 +134,7 @@ img {
 
 footer {
   height: 100%;
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Times New Roman', sans-serif;
   font-size: 14px;
   display: flex;
   align-content: center;
