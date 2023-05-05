@@ -15,7 +15,7 @@ header, footer {
 }
 
 header {
-  color: #800000;
+  color: #ffffff;
   min-height: 100vh;
   display: flex;
 }
@@ -82,7 +82,7 @@ img {
 }
 
 .bio {
-  color: #800000;
+  color: #ffffff;
   font-size: 24px;
 }
 
@@ -94,9 +94,9 @@ img {
 
 .myButton {
   border-radius: 28px;
-  border: 1px solid #800000;
+  border: 1px solid #ffffff;
   cursor: pointer;
-  color: #800000;
+  color: #ffffff;
   font-size: 20px;
   padding: 16px 31px;
   text-decoration: none;
